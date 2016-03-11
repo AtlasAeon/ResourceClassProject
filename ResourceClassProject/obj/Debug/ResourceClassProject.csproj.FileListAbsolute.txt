@@ -1,0 +1,6 @@
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Days\ResourceClassProject\ResourceClassProject\bin\Debug\ResourceClassProject.exe.config
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Days\ResourceClassProject\ResourceClassProject\bin\Debug\ResourceClassProject.exe
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Days\ResourceClassProject\ResourceClassProject\bin\Debug\ResourceClassProject.pdb
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Days\ResourceClassProject\ResourceClassProject\obj\Debug\ResourceClassProject.csprojResolveAssemblyReference.cache
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Days\ResourceClassProject\ResourceClassProject\obj\Debug\ResourceClassProject.exe
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Days\ResourceClassProject\ResourceClassProject\obj\Debug\ResourceClassProject.pdb
